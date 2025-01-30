@@ -1,18 +1,6 @@
-# GitHub Events Tracker
+# GitHub User Activity
 
 A simple Go CLI tool to fetch and display GitHub user events such as pushes, repository creations, stars, and deletions.
-
----
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [How to Build](#how-to-build)
-6. [Code Explanation](#code-explanation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
@@ -40,8 +28,8 @@ This tool fetches recent GitHub events for a given username using the [GitHub AP
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/github-events-tracker.git
-   cd github-events-tracker
+   git clone https://github.com/trinverdale-bit/github-user-activity.git
+   cd github-user-activity
 2. Build the project:
    `go build -o github-user-activity main.go`
 3. Run ./github-user-activity and specify a user
