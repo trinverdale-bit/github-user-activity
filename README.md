@@ -1,6 +1,7 @@
 # GitHub User Activity
 
 A simple Go CLI tool to fetch and display GitHub user events such as pushes, repository creations, stars, and deletions.
+Project url: https://roadmap.sh/projects/github-user-activity
 
 ---
 
